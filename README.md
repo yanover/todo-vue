@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# todo-vue
-A todo application to experiment Vue.js framework
-=======
-# todo
+# typescript-test
 
 ## Project setup
 ```
@@ -26,4 +22,3 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
->>>>>>> 402332e9447008d7676a543cb1a53d232a3481de
